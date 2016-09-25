@@ -1,0 +1,22 @@
+{
+  "name": "o-auth",
+  "version": "0.0.1",
+  "description": "OAuth server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li-qiang/o-auth.git"
+  },
+  "keywords": [
+    "auth"
+  ],
+  "author": "li-qiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/li-qiang/o-auth/issues"
+  },
+  "homepage": "https://github.com/li-qiang/o-auth#readme"
+}
